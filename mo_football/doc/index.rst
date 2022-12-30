@@ -1,4 +1,3 @@
-
 Installation
 ============
 
@@ -60,3 +59,8 @@ Affiliate management software provides reports according to flexible criteria fo
    :alt: Affiliate reports
    :width: 1100
    :height: 500
+
+.. youtube:: Nt5CCY8BiX4
+   :align: center
+   :width: 700
+   :height: 394
