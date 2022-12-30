@@ -35,6 +35,9 @@
     'demo': [
         # 'demo/demo.xml',
     ],
+    'images' : [
+        'static/description/main_screenshot.png'
+    ],
     'installable': True,
     'application': False,
     'auto_install': False,
