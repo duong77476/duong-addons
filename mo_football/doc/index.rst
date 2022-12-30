@@ -50,7 +50,7 @@ Combine with the `to_affiliate_sale <https://viindoo.com/apps/app/15.0/to_affili
    :alt: Manage Affiliate Commission Payments
    :width: 1100
    :height: 300
-   
+
 **4. View analysis report.**
 
 Affiliate management software provides reports according to flexible criteria for many management purposes such as analyzing the effectiveness of collaborators and affiliate marketing programs with real-time updates.
@@ -60,7 +60,11 @@ Affiliate management software provides reports according to flexible criteria fo
    :width: 1100
    :height: 500
 
-.. youtube:: Nt5CCY8BiX4
-   :align: center
-   :width: 700
-   :height: 394
+**5. View analysis report.**
+
+Hi
+
+.. youtube:: j9enLKFTzH0
+    :align: center
+    :width: 700
+    :height: 394
