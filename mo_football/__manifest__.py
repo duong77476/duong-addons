@@ -7,6 +7,12 @@
 
     'description': """
         Manage footbal club, player
+
+        .. youtube:: I18zCBLJ6mY
+            :align: right
+            :width: 700
+            :height: 394
+
     """,
 
     'author': "EM Duong",
