@@ -6,6 +6,12 @@
         Manage footbal club, player""",
 
     'description': """
+.. image:: 01-thiet-lap-cong-tac-vien.en.jpg
+   :alt: The Chart of Accounts
+   :width: 1100
+   :height: 500
+
+
 Manage footbal club, player
 
 .. youtube:: I18zCBLJ6mY
